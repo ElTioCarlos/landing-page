@@ -28,6 +28,13 @@ a {
     align-items: center;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
 .logo, .title{
     color: #F9FAF8;
     font-size: 24px;
